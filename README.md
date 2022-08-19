@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rowena2001
-- 🌱 I’m currently studying business and computer science :)
+- 🌱 I’m currently studying computer science and business :)
 - 🧠 Always looking for  ways to learn more about tech!
 
 <!---
